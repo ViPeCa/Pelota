@@ -1,0 +1,26 @@
+# Lista.m3u
+Pelota Invernal Dominicana
+#EXTINF:-1  tvg-logo="" group-title="Escogido",RTVD Canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1743284654_b2146304.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="Licey",RTVD Canal 4
+
+
+#EXTINF:-1  tvg-logo="" group-title="Aguilas",TeleUniverso 29
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+#EXTINF:-1  tvg-logo=""group-title="Aguilas",Luna TV
+https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w1928010469.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="Gigantes",RTVD Canal 4,Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-id="TelenordCanal10.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Gigantes",Telenord Canal 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord12.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Gigantes",Telenord 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="Toros",Romana TV 
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1  tvg-logo=""group-title="Toros",TVO
+https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="Estrellas",RTVD Canal 4
