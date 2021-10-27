@@ -1,17 +1,21 @@
 # Lista.m3u
 Pelota Invernal Dominicana
-#EXTINF:-1  tvg-logo="" group-title="Escogido",RTVD Canal 4
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1743284654_b2146304.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Escogido",Escogido TV
+https://panel.streamingtv-mediacp.online:1936/8168/8168/chunklist_w299404340.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="Licey",RTVD Canal 4
-
+#EXTINF:-1  tvg-logo="" group-title="Licey",Licey TV
+https://playback.akamaized.net/streams/28126860_8825282_lsiapa7fx2srw1tl4ks_1/media/28126860_8825282_lsiapa7fx2srw1tl4ks_1@2128000p.m3u8?dw=14400&ts=1635336000&hdnts=exp=1635512083~acl=/streams/28126860_8825282_lsiapa7fx2srw1tl4ks_1/media*~hmac=5e89e1932299fd7a2c6aa349bdc01eb8bca001d11faa23037a3368ac7d99e559
 
 #EXTINF:-1  tvg-logo="" group-title="Aguilas",TeleUniverso 29
 https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
 #EXTINF:-1  tvg-logo=""group-title="Aguilas",Luna TV
 https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w1928010469.m3u8
+#EXTINF:-1  tvg-logo=""group-title="Aguilas",CDN Deportes
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1635425232~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=74bb04ebb2d9410376f2d00a68470a048986f8b247b20b1c9d250efd343623da
 
-#EXTINF:-1  tvg-logo="" group-title="Gigantes",RTVD Canal 4,Telenord 8
+#EXTINF:-1  tvg-logo="" group-title="Gigantes",RTVD Canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1743284654_b2146304.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Gigantes",Telenord 8
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-id="TelenordCanal10.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Gigantes",Telenord Canal 10
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
@@ -23,4 +27,5 @@ http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1  tvg-logo=""group-title="Toros",TVO
 https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="Estrellas",RTVD Canal 4
+#EXTINF:-1  tvg-logo="" group-title="Estrellas",Estrellas TV
+https://playback.akamaized.net/streams/28126860_8825282_lsiapa7fx2srw1tl4ks_1/media/28126860_8825282_lsiapa7fx2srw1tl4ks_1@2128000p.m3u8?dw=14400&ts=1635336000&hdnts=exp=1635511808~acl=/streams/28126860_8825282_lsiapa7fx2srw1tl4ks_1/media*~hmac=c9a58c9ce8abb6e643615618852631e86eefcefc4daac88a9529ffb04a9d9365
